@@ -1,0 +1,4 @@
+,pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition,matches_themes
+0,12407484,20000000,1410,1661,0.0796,0.1242,0.5234,0.00312,0.64,0.64,2012-01-22,Gwq2ME5,"ts_skewness(vec_avg(oth15_constituent_market_value),120)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+1,5593952,20000000,1484,1586,0.0725,0.056,0.8183,0.001546,0.23,0.35,2012-01-22,oK1b3vn,"ts_skewness(vec_avg(oth15_total_shares_held),120)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+2,-9017918,20000000,1493,1586,0.0606,-0.0903,1.6603,-0.00298,-0.31,-0.37,2012-01-22,17q8aVm,"ts_skewness(vec_avg(oth15_constituent_weight),120)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING

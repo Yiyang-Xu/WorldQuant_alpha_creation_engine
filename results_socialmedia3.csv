@@ -1,0 +1,8 @@
+,pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition,matches_themes
+0,944075,20000000,1364,1368,0.0668,0.0095,0.0494,0.000283,0.09,0.32,2012-01-22,37wvoeQ,"ts_skewness(vec_avg(scl3_highsentiment),120)",PASS,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+1,786933,20000000,1145,1587,0.0618,0.0079,0.1255,0.000255,0.06,0.24,2012-01-22,37wvoP0,"ts_skewness(vec_avg(scl3_sentimentcount),120)",PASS,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+2,646789,20000000,1294,1438,0.0657,0.0065,0.1044,0.000197,0.04,0.19,2012-01-22,9wYOlqx,"ts_skewness(vec_avg(scl3_wordcount),120)",PASS,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+3,280712,20000000,1385,1347,0.0662,0.0028,0.0543,8.5e-05,0.02,0.12,2012-01-22,OpOXAGv,"ts_skewness(vec_avg(scl3_averagesentiment),120)",PASS,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+4,-290219,20000000,1165,1567,0.0665,-0.0029,0.1421,-8.7e-05,-0.01,-0.07,2012-01-22,7wWRL1L,"ts_skewness(vec_avg(scl3_accountrating),120)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+5,-769211,20000000,1435,1298,0.0705,-0.0077,0.0804,-0.000219,-0.07,-0.29,2012-01-22,ng95vml,"ts_skewness(vec_avg(scl3_lowsentiment),120)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+6,-1533756,20000000,1511,1221,0.076,-0.0154,0.2569,-0.000404,-0.12,-0.33,2012-01-22,Yp6o1zR,"ts_skewness(vec_avg(scl3_time),120)",PASS,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING

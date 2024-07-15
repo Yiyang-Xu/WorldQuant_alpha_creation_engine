@@ -1,0 +1,3 @@
+,pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition,matches_themes
+0,-3426891,20000000,1475,1633,0.0794,-0.0343,0.3702,-0.000864,-0.31,-0.59,2012-01-22,MpjELRz,"ts_skewness(vec_avg(pv141_global_1c),120)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+1,-3426745,20000000,1475,1633,0.0794,-0.0343,0.3702,-0.000864,-0.31,-0.59,2012-01-22,g1653jm,"ts_skewness(vec_avg(pv141_us_1c),120)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,WARNING,WARNING

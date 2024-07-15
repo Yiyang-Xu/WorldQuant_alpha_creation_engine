@@ -1,0 +1,2 @@
+,pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition,matches_themes
+0,-2869338,20000000,1266,1570,0.0881,-0.0287,0.3626,-0.000652,-0.29,-0.61,2012-01-22,adr0W7O,"ts_skewness(vec_avg(opt30_osp),120)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,WARNING,WARNING

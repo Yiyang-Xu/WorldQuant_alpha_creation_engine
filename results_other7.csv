@@ -1,0 +1,11 @@
+,pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition,matches_themes
+0,2666707,20000000,1654,1376,0.0636,0.0267,0.123,0.000839,0.29,0.63,2012-01-22,8zm0Lzv,"ts_skewness(vec_avg(oth7_1_prob_ntr),120)",PASS,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+1,1364726,20000000,1375,1639,0.0713,0.0137,0.1087,0.000383,0.13,0.39,2012-01-22,xxKLnxn,"ts_skewness(vec_avg(oth7_1_novelty),120)",PASS,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+2,188309,20000000,1387,1632,0.111,0.0019,1.0938,3.4e-05,0.0,0.01,2012-01-22,wR8dee2,"ts_skewness(vec_avg(oth7_1_headlineonly),120)",FAIL,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+3,-450447,20000000,1645,1325,0.054,-0.0045,0.1497,-0.000167,-0.02,-0.1,2012-01-22,ng1jWWq,"ts_skewness(vec_avg(oth7_1_relevance),120)",PASS,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+4,-540771,20000000,1641,1389,0.0707,-0.0054,0.1222,-0.000153,-0.03,-0.15,2012-01-22,Xpj3KKa,"ts_skewness(vec_avg(oth7_1_confidence),120)",PASS,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+5,-805117,20000000,1480,1551,0.0565,-0.0081,0.1418,-0.000285,-0.09,-0.37,2012-01-22,bLYm99K,"ts_skewness(vec_avg(oth7_1_marketimpactscore),120)",PASS,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+6,-1959894,20000000,1333,1698,0.0632,-0.0196,0.2271,-0.000621,-0.18,-0.46,2012-01-22,p6q277x,"ts_skewness(vec_avg(oth7_1_prob_pos),120)",PASS,PASS,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+7,-1905003,20000000,1367,1664,0.0569,-0.0191,0.2933,-0.00067,-0.23,-0.6,2012-01-22,Qa1xQaG,"ts_skewness(vec_avg(oth7_1_prob_neg),120)",PASS,PASS,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+8,-10923282,20000000,1326,1699,0.1365,-0.1094,1.7309,-0.001602,-0.41,-0.46,2012-01-22,adr0OO9,"ts_skewness(vec_avg(oth7_1_sentiment),120)",FAIL,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
+9,0,0,0,0,0.0,0.0,0.0,0.0,,0.0,2012-01-22,07bV8XK,"ts_skewness(vec_avg(oth7_1_timestamp),120)",FAIL,PASS,ERROR,FAIL,ERROR,FAIL,WARNING,WARNING

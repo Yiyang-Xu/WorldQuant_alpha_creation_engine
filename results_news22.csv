@@ -1,0 +1,4 @@
+,pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition,matches_themes
+0,816910,20000000,1035,1213,0.0665,0.0082,0.115,0.000246,0.06,0.24,2012-01-22,JpVa1bW,"ts_skewness(vec_avg(mws22_wqrcvtime_time),120)",PASS,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+1,82406,20000000,773,832,0.2754,0.0041,0.1849,3e-05,0.0,0.04,2012-01-22,7wkPMdb,"ts_skewness(vec_avg(mws22_headline),120)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
+2,-225624,20000000,1132,1170,0.081,-0.0023,0.0585,-5.6e-05,-0.01,-0.09,2012-01-22,oK1jrY2,"ts_skewness(vec_avg(mws22_qes),120)",PASS,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
