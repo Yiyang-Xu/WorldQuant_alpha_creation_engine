@@ -1,0 +1,6 @@
+pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+3427210,20000000,1677,1875,0.5725,0.0331,0.0465,0.000116,0.23,0.97,2012-01-22,VpE5E3w,"ts_zscore(anl47_indicator,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+2802969,20000000,1582,1591,0.4847,0.0271,0.0924,0.000112,0.18,0.77,2012-01-22,Lp6r6dL,"ts_zscore(anl47_rawexperts,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+1100625,20000000,1852,2322,0.4442,0.0106,0.064,4.8e-05,0.05,0.31,2012-01-22,YpmJW2W,"ts_zscore(anl47_totalrawsignal,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+502592,20000000,1871,2285,0.4274,0.0049,0.0814,2.3e-05,0.01,0.14,2012-01-22,oKvr9nJ,"ts_zscore(anl47_rawsentiment,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-1363272,20000000,2061,2113,0.3409,-0.0132,0.1714,-7.7e-05,-0.09,-0.44,2012-01-22,9wKmK8o,"ts_zscore(anl47_rawalphadecay,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS

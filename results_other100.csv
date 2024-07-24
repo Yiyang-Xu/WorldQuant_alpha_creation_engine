@@ -1,2 +1,0 @@
-,pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition,matches_themes
-0,231115,20000000,559,459,0.1522,0.033,0.0223,0.000434,0.32,0.68,2012-01-22,AwRpOzX,"ts_skewness(vec_avg(oth100_top5_people_also_watch_ticker_ii),120)",PASS,PASS,FAIL,FAIL,FAIL,FAIL,PASS,WARNING,WARNING

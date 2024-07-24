@@ -115,7 +115,7 @@ def generate_alpha(
     selection: str = None,
     combo: str = None,
     alpha_type: Literal["REGULAR", "SUPER"] = "REGULAR",
-    region: str = "USA",
+    region: str = "GLBå",
     universe: str = "TOP3000",
     delay: int = 1,
     decay: int = 0,
@@ -177,7 +177,7 @@ def generate_alpha(
 def construct_selection_expression(
     selection: str,
     instrument_type: str = 'EQUITY',
-    region: str = 'USA',
+    region: str = 'GLB',
     delay: int = 1,
     selection_limit: int = 1000,
     selection_handling: str = 'POSITIVE'):

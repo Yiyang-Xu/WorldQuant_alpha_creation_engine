@@ -1,8 +1,0 @@
-,pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition,matches_themes
-0,3297910,20000000,1,1,0.0355,0.0583,0.171,0.003282,0.33,0.49,2012-01-22,qAKagGP,"ts_skewness(vec_avg(oth323_pxtls),120)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
-1,2057731,20000000,627,723,0.1767,0.0274,0.123,0.00031,0.15,0.39,2012-01-22,17q8J16,"ts_skewness(vec_avg(oth323_esor),120)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
-2,-51148,20000000,682,945,0.1672,-0.0007,0.2319,-8e-06,-0.0,-0.01,2012-01-22,p6q28PX,"ts_skewness(vec_avg(oth323_pxrls),120)",FAIL,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
-3,-9408627,20000000,0,0,0.0222,-0.1456,2.0825,-0.01311,-0.33,-0.31,2012-01-22,vLKEdkd,"ts_skewness(vec_avg(oth323_par_amt),120)",FAIL,PASS,FAIL,FAIL,PASS,PASS,WARNING,WARNING
-4,-7829886,20000000,4,4,0.0705,-0.1045,1.4878,-0.002963,-0.36,-0.39,2012-01-22,k3xwQVd,"ts_skewness(vec_avg(oth323_ibs),120)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,WARNING,WARNING
-5,-2363614,20000000,0,0,0.0097,-0.0734,0.2673,-0.015071,-0.67,-0.88,2012-01-22,17q8Jmz,"ts_skewness(vec_avg(oth323_ibc),120)",FAIL,PASS,FAIL,FAIL,PASS,FAIL,WARNING,WARNING
-6,0,0,0,0,0.0,0.0,0.0,0.0,,0.0,2012-01-22,g1Ylxwm,"ts_skewness(vec_avg(oth323_esod),120)",FAIL,PASS,ERROR,FAIL,ERROR,FAIL,WARNING,WARNING

@@ -229,9 +229,9 @@ def get_alpha_yearly_stats(s, alpha_id):
 def get_datasets(
     s,
     instrument_type: str = 'EQUITY',
-    region: str = 'USA',
+    region: str = 'GLB',
     delay: int = 1,
-    universe: str = 'TOP3000'
+    universe: str = 'MINVOL1M'
 ):
     url = brain_api_url + "/data-sets?" +\
         f"instrumentType={instrument_type}&region={region}&delay={str(delay)}&universe={universe}"
@@ -243,9 +243,9 @@ def get_datasets(
 def get_datafields(
     s,
     instrument_type: str = 'EQUITY',
-    region: str = 'USA',
+    region: str = 'GLB',
     delay: int = 1,
-    universe: str = 'TOP3000',
+    universe: str = 'MINVOL1M',
     dataset_id: str = '',
     search: str = ''
 ):
