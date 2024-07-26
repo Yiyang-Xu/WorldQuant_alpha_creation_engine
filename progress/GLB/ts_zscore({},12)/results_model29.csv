@@ -1,0 +1,15 @@
+pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+10171733,20000000,1279,1183,0.4956,0.0982,0.0853,0.000396,0.94,2.11,2012/1/22,k3LxLvl,"ts_zscore(star_ebitda_smart_estimate_fy2,12)",PASS,PASS,FAIL,FAIL,PASS,PASS,PASS,PASS
+4969066,20000000,2664,2629,0.3506,0.048,0.0465,0.000274,0.92,2.49,2012/1/22,PpXJ1rx,"ts_zscore(star_ebitda_surprise_prediction_12m,12)",FAIL,PASS,FAIL,FAIL,PASS,PASS,PASS,PASS
+5036359,20000000,2553,2542,0.3649,0.0486,0.0343,0.000267,0.88,2.42,2012/1/22,wRJ8RO6,"ts_zscore(star_ebitda_surprise_prediction_fy2,12)",FAIL,PASS,FAIL,FAIL,PASS,PASS,PASS,PASS
+6861317,20000000,1713,1230,0.4419,0.0663,0.0694,0.0003,0.58,1.51,2012/1/22,p61qzax,"ts_zscore(star_ebitda_smart_estimate_12m,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+7363894,20000000,1170,1078,0.4938,0.0711,0.1343,0.000288,0.55,1.46,2012/1/22,Op5156J,"ts_zscore(star_ebitda_smart_estimate_fy1,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+3695778,20000000,2552,2528,0.3664,0.0357,0.0519,0.000195,0.53,1.71,2012/1/22,8zKmzkX,"ts_zscore(star_ebitda_surprise_prediction_fy1,12)",FAIL,PASS,FAIL,FAIL,PASS,PASS,PASS,PASS
+8320978,20000000,584,550,0.5267,0.0803,0.1515,0.000305,0.34,0.87,2012/1/22,YpWjWl6,"ts_zscore(star_ebitda_smart_estimate_fq2,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+5499641,20000000,621,594,0.5214,0.0531,0.2185,0.000204,0.19,0.6,2012/1/22,AwORaLR,"ts_zscore(star_ebitda_smart_estimate_fq1,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+1879044,20000000,1382,1099,0.5105,0.0181,0.095,7.10E-05,0.08,0.44,2012/1/22,RpkJk9b,"ts_zscore(star_ebitda_analyst_number_fy1,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+2030212,20000000,1245,1208,0.3415,0.0196,0.1435,0.000115,0.08,0.32,2012/1/22,jZd5gWE,"ts_zscore(star_ebitda_surprise_prediction_fq1,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+1506026,20000000,1125,1112,0.3398,0.0145,0.1755,8.60E-05,0.05,0.22,2012/1/22,9wAzRbr,"ts_zscore(star_ebitda_surprise_prediction_fq2,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+514718,20000000,1393,1088,0.5117,0.005,0.0937,1.90E-05,0.01,0.12,2012/1/22,PpXJl5p,"ts_zscore(star_ebitda_analyst_number_fy2,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-6026110,20000000,470,408,0.5618,-0.0582,0.8079,-0.000207,-0.14,-0.43,2012/1/22,PpXJXPL,"ts_zscore(star_ebitda_analyst_number_fq2,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+-8081855,20000000,551,470,0.5597,-0.078,1.0514,-0.000279,-0.25,-0.66,2012/1/22,dxl2l9j,"ts_zscore(star_ebitda_analyst_number_fq1,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS

@@ -1,2 +1,2 @@
 pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
--297847,20000000,829,852,0.5202,-0.0029,0.1348,-1.1e-05,-0.01,-0.07,2012-01-22,Kb8MMN8,"ts_zscore(mcr10_value,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+-297847,20000000,829,852,0.5202,-0.0029,0.1348,-1.10E-05,-0.01,-0.07,2012/1/22,Kb8MMN8,"ts_zscore(mcr10_value,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
