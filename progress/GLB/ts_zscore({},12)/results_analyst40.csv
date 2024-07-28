@@ -1,0 +1,6 @@
+pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+11959765,20000000,8,10,1.7591,0.213,0.4674,0.000242,0.22,0.63,2012-01-22,LpgM1v2,"ts_zscore(anl40_employmentrate,12)",FAIL,FAIL,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+7965040,20000000,10,10,1.1797,0.077,0.6516,0.000131,0.06,0.24,2012-01-22,adAKnmW,"ts_zscore(anl40_totalchange,12)",FAIL,FAIL,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+-852274,20000000,16,16,1.7509,-0.0152,0.7463,-1.7e-05,-0.0,-0.05,2012-01-22,eOd50jg,"ts_zscore(anl40_netturnoverrate,12)",FAIL,FAIL,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-4571839,20000000,8,9,1.1504,-0.0442,1.0116,-7.7e-05,-0.03,-0.14,2012-01-22,37aoRNQ,"ts_zscore(anl40_moveout,12)",FAIL,FAIL,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-3630711,20000000,13,14,1.7267,-0.0646,0.981,-7.5e-05,-0.04,-0.21,2012-01-22,Ewg6EnG,"ts_zscore(anl40_turnoverrate,12)",FAIL,FAIL,FAIL,FAIL,FAIL,FAIL,PASS,PASS

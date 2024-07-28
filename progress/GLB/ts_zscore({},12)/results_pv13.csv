@@ -1,0 +1,8 @@
+pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+16235205,20000000,911,1226,0.1664,0.1568,0.4111,0.001885,0.8,0.82,2012-01-22,oK9kwq2,"ts_zscore(pv13_ompetitor_graphrank_auth_rank,12)",FAIL,PASS,PASS,FAIL,FAIL,PASS,PASS,PASS
+6373588,20000000,0,0,0.0765,0.0616,0.7563,0.001611,0.13,0.18,2012-01-22,27n2QpP,"ts_zscore(pv13_reveremap,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+880473,20000000,356,1204,0.1616,0.0085,0.078,0.000105,0.06,0.25,2012-01-22,Lpl26ka,"ts_zscore(pv13_ustomer_graphrank_page_rank,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-64137,20000000,370,1007,0.1677,-0.0006,0.2007,-7e-06,-0.0,-0.01,2012-01-22,8zK2kpl,"ts_zscore(pv13_ompetitor_graphrank_page_rank,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+-1030810,20000000,851,1125,0.124,-0.01,0.1793,-0.000161,-0.08,-0.3,2012-01-22,AwO2YGg,"ts_zscore(pv13_ustomer_graphrank_auth_rank,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-3181299,20000000,513,666,0.1232,-0.0307,0.4003,-0.000499,-0.19,-0.39,2012-01-22,5wq27pJ,"ts_zscore(pv13_ompetitor_graphrank_hub_rank,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+-3842884,20000000,629,812,0.1259,-0.0371,0.4717,-0.00059,-0.41,-0.76,2012-01-22,Rpkvq9b,"ts_zscore(pv13_ustomer_graphrank_hub_rank,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS

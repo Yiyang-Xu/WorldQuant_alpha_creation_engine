@@ -1,0 +1,12 @@
+pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+4346308,20000000,3884,3945,0.6038,0.042,0.0237,0.000139,0.55,2.08,2012-01-22,27n2OZx,"ts_zscore(star_hold_country_rank,12)",PASS,PASS,FAIL,FAIL,PASS,PASS,PASS,PASS
+4715202,20000000,3854,3834,0.6151,0.0455,0.0302,0.000148,0.48,1.77,2012-01-22,Gw37bzo,"ts_zscore(star_hold_region_screening_rank,12)",PASS,PASS,FAIL,FAIL,PASS,PASS,PASS,PASS
+3859959,20000000,3878,3942,0.5994,0.0373,0.0302,0.000124,0.39,1.57,2012-01-22,dxlPObx,"ts_zscore(star_hold_region_rank,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+3354787,20000000,3845,3886,0.6282,0.0324,0.0239,0.000103,0.37,1.62,2012-01-22,dxlPOxJ,"ts_zscore(star_hold_industry_rank,12)",PASS,PASS,FAIL,FAIL,PASS,PASS,PASS,PASS
+3542267,20000000,3886,3939,0.609,0.0342,0.0297,0.000112,0.37,1.55,2012-01-22,7wK2NmZ,"ts_zscore(star_hold_sector_rank,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+3106781,20000000,3865,3964,0.596,0.03,0.0318,0.000101,0.29,1.28,2012-01-22,27n2OwP,"ts_zscore(star_hold_region_change_rank,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+3811123,20000000,3888,3848,0.6457,0.0368,0.0877,0.000114,0.19,0.81,2012-01-22,m8xlg81,"ts_zscore(star_hold_global_screening_rank,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+3317766,20000000,3901,3936,0.6249,0.032,0.1056,0.000103,0.18,0.78,2012-01-22,lVRN8Vl,"ts_zscore(star_hold_global_rank,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+2984553,20000000,3877,3954,0.6167,0.0288,0.1372,9.3e-05,0.17,0.78,2012-01-22,AwO20OR,"ts_zscore(star_hold_global_change_rank,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-989379,20000000,3006,2988,0.6729,-0.0096,0.1786,-2.8e-05,-0.03,-0.25,2012-01-22,Qa5o35r,"ts_zscore(star_hold_global_owner_rank,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+-1933270,20000000,3551,3601,0.654,-0.0187,0.2304,-5.7e-05,-0.11,-0.65,2012-01-22,AwO20Ng,"ts_zscore(star_hold_region_owner_rank,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
