@@ -1,0 +1,9 @@
+pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+158890,20000000,5,5,0.015,0.0033,0.0021,0.000441,0.15,0.91,2012-01-22,ngnE3Az,"ts_zscore(fscore_profitability,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-12067,20000000,9,9,0.015,-0.0003,0.0053,-3.4e-05,-0.0,-0.09,2012-01-22,VpXWO3V,"ts_zscore(fscore_momentum,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+4923,20000000,6,6,0.0151,0.0001,0.0104,1.4e-05,0.0,0.02,2012-01-22,7wxpw51,"ts_zscore(fscore_value,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-36467,20000000,6,6,0.0151,-0.0008,0.0057,-0.000101,-0.03,-0.37,2012-01-22,LpnQR2v,"ts_zscore(fscore_surface,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-37656,20000000,5,6,0.0151,-0.0008,0.0055,-0.000105,-0.03,-0.34,2012-01-22,eOnjrZ6,"ts_zscore(fscore_quality,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+-83536,20000000,9,8,0.015,-0.0017,0.0106,-0.000232,-0.07,-0.57,2012-01-22,GwnRkGx,"ts_zscore(fscore_growth,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+-45815,20000000,4,4,0.0117,-0.001,0.0046,-0.000164,-0.08,-0.89,2012-01-22,dxnG0px,"ts_zscore(fscore_total,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-99002,20000000,4,4,0.0117,-0.0021,0.0099,-0.000354,-0.11,-0.88,2012-01-22,37ENANN,"ts_zscore(fscore_surface_accel,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS

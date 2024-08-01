@@ -1,4 +1,4 @@
-pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+ ,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
 6658003,20000000,3093,3638,0.6503,0.0643,0.101,0.000198,0.36,1.13,2012/1/22,8zKrQjo,"ts_zscore(oth432_capital_otlo_predict,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
 8781488,20000000,741,759,0.5166,0.0848,0.144,0.000328,0.34,0.83,2012/1/22,ZpWlpW1,"ts_zscore(oth432_deltapredictfcf_ttm_predict,12)",PASS,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
 21693963,20000000,651,625,1.1917,0.2095,0.5195,0.000352,0.34,0.81,2012/1/22,Qa5j60K,"ts_zscore(oth432_compustatpredictiveepsfiq_prediction,12)",FAIL,FAIL,FAIL,FAIL,FAIL,PASS,PASS,PASS
