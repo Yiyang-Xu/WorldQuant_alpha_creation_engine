@@ -1,0 +1,6 @@
+pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+1228147,20000000,1933,1926,0.5339,0.0119,0.105,4.4e-05,0.05,0.31,2012-01-22,qAXreeP,"ts_zscore(oth351_sentiment_ml,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+1445860,20000000,1094,1124,0.515,0.014,0.188,5.4e-05,0.03,0.2,2012-01-22,NpOmq9o,"ts_zscore(oth351_similarity10k,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
+77217,20000000,2036,2029,0.6421,0.0007,0.1717,2e-06,0.0,0.02,2012-01-22,XpKQXL1,"ts_zscore(oth351_score,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+391044,20000000,1207,1236,0.5156,0.0038,0.3153,1.5e-05,0.0,0.05,2012-01-22,RprQqQe,"ts_zscore(oth351_similarity10q,12)",FAIL,PASS,FAIL,FAIL,FAIL,PASS,PASS,PASS
+-1327070,20000000,1714,1713,0.7744,-0.0128,0.19,-3.3e-05,-0.05,-0.36,2012-01-22,QaQkmeQ,"ts_zscore(oth351_lm_nnc,12)",FAIL,FAIL,FAIL,FAIL,FAIL,PASS,PASS,PASS

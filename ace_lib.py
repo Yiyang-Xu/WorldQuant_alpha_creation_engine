@@ -119,7 +119,7 @@ def generate_alpha(
     universe: str = "TOP3000",
     delay: int = 1,
     decay: int = 0,
-    neutralization: str = "INDUSTRY",
+    neutralization: str = "SUBINDUSTRY",
     truncation: float = 0.08,
     pasteurization: str = "ON",
     test_period: str = "P0Y0M0D",

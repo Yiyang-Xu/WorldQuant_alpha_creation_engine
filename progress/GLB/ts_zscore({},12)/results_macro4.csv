@@ -1,0 +1,2 @@
+pnl,book_size,long_count,short_count,turnover,returns,drawdown,margin,fitness,sharpe,start_date,alpha_id,expression,concentrated_weight,high_turnover,is_ladder_sharpe,low_fitness,low_sharpe,low_sub_universe_sharpe,low_turnover,matches_competition
+847686,20000000,888,900,0.5578,0.0082,0.0689,2.9e-05,0.03,0.21,2012-01-22,ngWpQLl,"ts_zscore(mcr4_value,12)",FAIL,PASS,FAIL,FAIL,FAIL,FAIL,PASS,PASS
